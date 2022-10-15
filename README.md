@@ -9,6 +9,7 @@ Kaggle来源应该是这位：https://www.kaggle.com/code/akaneninomiya/stabledi
 
 !!!!!
 kaggele失效了，大概是fork1的中文版在部署时没有自动生成一些空文件夹，而在kaggle中创建新文件夹失败。
+看来还是要老老实实地用自动111的WebUi包
 如果需要使用的话（但需要修改，毕竟云端上一些文件的位置修改过了。真要部署，还是推荐使用上方来源。）
 将NovelAI_Colab.ipynb下载下来，在Colab上加载
 或者将Willow,ipynb下载下来，在Kaggle上加载
